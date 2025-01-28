@@ -1,0 +1,13 @@
+{
+  "name": "employee-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "type": "commonjs",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.4.7",
+    "employee-manager": "file:",
+    "inquirer": "^12.3.2",
+    "pg": "^8.13.1"
+  }
+}
